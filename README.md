@@ -1,5 +1,7 @@
 # pg-ldap-sync docker image
 
+![Docker Automated](https://img.shields.io/docker/cloud/automated/ceticasbl/pg-ldap-sync) ![Docker Build](https://img.shields.io/docker/cloud/build/ceticasbl/pg-ldap-sync.svg)
+
 ## Description
 
 This is the docker file you need to build the Docker image for the  [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync), the tool that helps synchronizing users, groups and their memberships from LDAP to PostgreSQL.
