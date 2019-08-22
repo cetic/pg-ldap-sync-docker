@@ -1,11 +1,6 @@
 # pg-ldap-sync docker image
 
 
-<p align="center">
-  <p align="right" style="width: 100%; height: 200px;">
-    <img src="doc/images/logo.png" height="200"/>
-  </p>
-
 
 ![Docker Automated](https://img.shields.io/docker/cloud/automated/ceticasbl/pg-ldap-sync) ![Docker Build](https://img.shields.io/docker/cloud/build/ceticasbl/pg-ldap-sync.svg)
 
