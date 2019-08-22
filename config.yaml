@@ -20,7 +20,7 @@ ldap_users:
   # lowercase name for use as PG role name
   lowercase_name: true
 ldap_groups:
-    base: ou=Groups,dc=ldap,dc=cetic,dc=be
+    base: ou=Groups,DC=example,DC=be
     filter: (|(cn=group1)(cn=group2)(cn=group3))
     # this attribute is used as PG role name
     name_attribute: cn
