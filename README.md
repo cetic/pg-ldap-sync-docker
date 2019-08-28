@@ -2,8 +2,9 @@
 
 <p align="center">
 	  <p align="center" style="width: 50%; height: 100px;">
-	    <img src="doc/images/logo.png" height="100"/>
+	    <img src="Doc/images/logo.png" height="100"/>
 	  </p>
+</p>
 
 ![Docker Automated](https://img.shields.io/docker/cloud/automated/ceticasbl/pg-ldap-sync) ![Docker Build](https://img.shields.io/docker/cloud/build/ceticasbl/pg-ldap-sync.svg)
 
