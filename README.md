@@ -6,7 +6,7 @@
 	  </p>
 </p>
 
-![Docker Automated](https://img.shields.io/docker/cloud/automated/ceticasbl/pg-ldap-sync) ![Docker Build](https://img.shields.io/docker/cloud/build/ceticasbl/pg-ldap-sync.svg)
+![Docker Automated](https://img.shields.io/docker/cloud/automated/ceticasbl/pg-ldap-sync) ![Docker Build](https://img.shields.io/docker/cloud/build/ceticasbl/pg-ldap-sync.svg) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
 
